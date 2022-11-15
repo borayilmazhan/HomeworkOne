@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeworkOne</string>
+    <string name="enter_a_name">Enter Name</string>
+    <string name="enter_surname">Enter Surname</string>
+</resources>
